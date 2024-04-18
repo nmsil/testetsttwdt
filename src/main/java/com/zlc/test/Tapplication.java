@@ -10,5 +10,6 @@ public class Tapplication {
         ConfigurableApplicationContext ioc = SpringApplication.run(Tapplication.class, args);
         System.out.println("git1111111111111");
         System.out.println("git2222222222222");
+        System.out.println("git3333333333333");
     }
 }
