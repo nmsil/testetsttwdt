@@ -16,5 +16,6 @@ public class Tapplication {
         System.out.println("hot-fix test");
         System.out.println("你好github");
         System.out.println("测试拉取代码");
+        System.out.println("测试拉取代码2222222222222");
     }
 }
