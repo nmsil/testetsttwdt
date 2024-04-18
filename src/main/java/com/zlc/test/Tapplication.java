@@ -14,5 +14,6 @@ public class Tapplication {
         System.out.println("hello git");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("你好github");
     }
 }
